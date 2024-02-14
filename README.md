@@ -3,7 +3,7 @@
 </div>
 
 <p>
-Hi there! My name is Sylvia, I am mostly front-end but with my sights on becoming full-stack. I have an associate's degree in Applied Science Computer Information and Technology Programming focused mostly on java, but I dabbled in quite a few different languages. I am currently pursuing a Bachelors of Science Software Engineering C# focused.
+Hi there! My name is Sylvia, I am mostly front-end but with my sights on becoming full-stack. I have an associate's degree in Applied Science Computer Information and Technology Programming focused mostly on java, but I dabbled in quite a few different languages. After my associates I was looking for continued education but it was out of my budget and so I joined a Bootcamp CodeKY which I believe now goes by Code:You I focused heavily on Javascript and React during my time there and at the end of my second round I enrolled to WGU pursuing a Bachelors of Science Software Engineering C# focused.
 </p>
 
 <div align="center">
